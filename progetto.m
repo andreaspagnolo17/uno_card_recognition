@@ -1,7 +1,7 @@
 clear;
 close all;
 
-immagine_originale = im2double(imread('uno-test-19.jpg'));
+immagine_originale = im2double(imread('uno-test-01.jpg'));
 % Leggi un'immagine in scala di grigi
 image = rgb2gray(im2double(immagine_originale));
 

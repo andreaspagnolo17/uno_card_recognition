@@ -155,5 +155,3 @@ end
 figure;
 imshow(resultImage);
 title('Immagine finale');
-
-save('workspace3.mat','singleCard');
